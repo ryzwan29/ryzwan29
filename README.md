@@ -6,8 +6,6 @@
 - Website : https://rizwanpemula.my.id/
 - Linkedin : https://www.linkedin.com/in/rizwan-fairuz-mamduh/
 - Instagram : https://www.instagram.com/ryzwannn13/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ryzwan29/ryzwan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
