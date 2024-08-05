@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Crypto Project as Node Developer
 - 📫 How to reach me
-- Website : https://rizwanpemula.my.id/
+- Website : https://rizwanfairuz.my.id/
 - Linkedin : https://www.linkedin.com/in/rizwan-fairuz-mamduh/
 - Instagram : https://www.instagram.com/ryzwannn13/
 
