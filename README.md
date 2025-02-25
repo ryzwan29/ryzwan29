@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Crypto Project as Node Developer
 - 📫 How to reach me
-- Website : https://dashboard.rizwanfairuz.my.id/board
-- Linkedin : https://www.linkedin.com/in/rizwan-fairuz-mamduh/
-- Instagram : https://www.instagram.com/ryzwannn13/
+- Website : https://node-validator.rizwanfairuz.my.id
 
 <!---
 ryzwan29/ryzwan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
