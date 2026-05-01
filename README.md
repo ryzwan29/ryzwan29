@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=DevOps+%26+Blockchain+Infrastructure+Engineer;Linux+Power+User+%7C+Arch+%26+Ubuntu;Kubernetes+%7C+Docker+%7C+Terraform+%7C+Ansible;Vibe+Coding+in+the+Dark+%F0%9F%96%A4;Breaking+Prod+and+Fixing+it+Faster+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=DevOps+%26+Blockchain+Infrastructure+Engineer;Kubernetes+%7C+Terraform+%7C+Ansible+%7C+Docker;Arch+Linux+%7C+because+I+enjoy+the+pain;4+terminals+open+%7C+1+is+always+prod;Running+on+caffeine+%26+man+pages+%E2%98%95;Cable+management+is+a+myth" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,22 +20,26 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Infrastructure GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Infrastructure GIF" width="490" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-name: "RydOne"
-role: "DevOps & Blockchain Infrastructure Engineer"
-location: "In the terminal 🖥️"
-os: ["Arch Linux btw", "Ubuntu uWWu"]
+❯ whoami
+  name:   RydOne
+  role:   DevOps & Blockchain Infrastructure Engineer
+  os:     Arch btw / Ubuntu uWWu
+  shell:  zsh + tmux + neovim (the holy trinity)
 
-current_focus:
-  - "Building resilient blockchain infra"
-  - "Automating everything with Terraform & Ansible"
-  - "Kubernetes cluster optimization"
-  - "Vibe coding at 2AM ☕"
+❯ cat current_focus.txt
+  → Validator nodes that don't miss epochs
+  → IaC that actually works on first apply (rare)
+  → K8s clusters that self-heal before I wake up
+  → Shipping smart contracts without getting rekt
 
-philosophy: "If it's not automated, it's broken"
-fun_fact: "I read man pages for fun"
+❯ cat /etc/philosophy
+  "Automate first. Sleep later. Document never."
+
+❯ uptime
+  always on. even when i shouldn't be.
 ```
 
 <br clear="right"/>
