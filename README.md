@@ -42,19 +42,6 @@ fun_fact: "I read man pages for fun"
 
 ---
 
-<!-- Socials -->
-### 🌐 Find Me Here
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/rydone.xyz-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://rydone.xyz/)
-[![X](https://img.shields.io/badge/@Ryddd29-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ryddd29)
-[![Telegram](https://img.shields.io/badge/@Ryddd29-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ryddd29)
-[![Discord](https://img.shields.io/badge/Ryddd29-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/791457544358199368)
-</div>
-
----
-
 <!-- Snake Animation -->
 <div align="center">
 
@@ -130,30 +117,21 @@ fun_fact: "I read man pages for fun"
 <!-- Terminal Vibes -->
 ### 🖥️ Current Terminal Status
 
-<div align="center">
-
 ```bash
-┌──(root㉿infra-node)-[~/blockchain]
-└─$ uptime && free -h && df -h /
- up 247 days, 13:37, load average: 0.42, 0.69, 0.88
- Mem:  total: 64G  used: 18G  free: 46G
- Disk: total: 2.0T  used: 420G  avail: 1.6T
+┌──(rydone㉿infra-node)-[~/blockchain]
+└─$ kubectl get pods --all-namespaces | grep -v Running
+# nothing. we're fine. totally fine.
 
-┌──(root㉿infra-node)-[~/blockchain]
-└─$ kubectl get nodes
-NAME            STATUS   ROLES           AGE    VERSION
-master-01       Ready    control-plane   247d   v1.29.0
-worker-01       Ready    <none>          247d   v1.29.0
-worker-02       Ready    <none>          247d   v1.29.0
-worker-03       Ready    <none>          247d   v1.29.0
+┌──(rydone㉿infra-node)-[~/blockchain]
+└─$ cat /proc/self/status | grep -i stress
+StressLevel: 0 (lie)
 
-┌──(root㉿infra-node)-[~/blockchain]
-└─$ echo "vibe coding activated 🔥"
-vibe coding activated 🔥
+┌──(rydone㉿infra-node)-[~/blockchain]
+└─$ $ printenv | grep -E "SLEEP|COFFEE|DOCS"
+SLEEP=deprecated
+COFFEE=required
+DOCUMENTATION=404
 ```
-
-</div>
-
 ---
 
 <!-- Blockchain Infra Section -->
@@ -170,6 +148,17 @@ vibe coding activated 🔥
 | **Security** | HashiCorp Vault · Cert-Manager · Falco |
 | **Network** | Nginx · Traefik · Cloudflare · HAProxy |
 
+</div>
+
+---
+
+<!-- Socials -->
+<div align="center">
+
+[![Website](https://img.shields.io/badge/rydone.xyz-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://rydone.xyz/)
+[![X](https://img.shields.io/badge/@Ryddd29-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ryddd29)
+[![Telegram](https://img.shields.io/badge/@Ryddd29-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ryddd29)
+[![Discord](https://img.shields.io/badge/Ryddd29-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/791457544358199368)
 </div>
 
 ---
