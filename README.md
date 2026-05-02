@@ -20,7 +20,9 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Infrastructure GIF" width="490" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <div align="center">
+  <img alt="Infrastructure GIF" width="100%" style="max-width:600px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div> -->
 
 ```yaml
 ❯ whoami
@@ -41,8 +43,6 @@
 ❯ uptime
   always on. even when i shouldn't be.
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -66,7 +66,6 @@
 
 <div align="center">
 
-<!-- Row 1 -->
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,bash,vim,neovim&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,ansible,terraform,jenkins&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,githubactions,git,github,gitlab&theme=dark" /><br/>
@@ -74,7 +73,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,solidity&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=vscode,postman,discord,cloudflare,aws,gcp&theme=dark" /><br/>
 
-<!-- Additional badges for tools not in skillicons -->
 <br/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black"/>
@@ -100,7 +98,6 @@
 
 ---
 
-<!-- GitHub Stats -->
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -109,7 +106,6 @@
 
 ---
 
-<!-- Activity Graph -->
 ### 📈 Contribution Graph
 
 <div align="center">
@@ -118,7 +114,6 @@
 
 ---
 
-<!-- Terminal Vibes -->
 ### 🖥️ Current Terminal Status
 
 ```bash
@@ -131,14 +126,14 @@
 StressLevel: 0 (lie)
 
 ┌──(rydone㉿infra-node)-[~/blockchain]
-└─$ $ printenv | grep -E "SLEEP|COFFEE|DOCS"
+└─$ printenv | grep -E "SLEEP|COFFEE|DOCS"
 SLEEP=deprecated
 COFFEE=required
 DOCUMENTATION=404
 ```
+
 ---
 
-<!-- Blockchain Infra Section -->
 ### ⛓️ Blockchain Infrastructure
 
 <div align="center">
@@ -156,18 +151,17 @@ DOCUMENTATION=404
 
 ---
 
-<!-- Socials -->
 <div align="center">
 
 [![Website](https://img.shields.io/badge/rydone.xyz-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://rydone.xyz/)
 [![X](https://img.shields.io/badge/@Ryddd29-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ryddd29)
 [![Telegram](https://img.shields.io/badge/@Ryddd29-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Ryddd29)
 [![Discord](https://img.shields.io/badge/Ryddd29-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/791457544358199368)
+
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
   💬 <i>"It works on my machine"</i> — famous last words before <code>git push --force</code>
 
