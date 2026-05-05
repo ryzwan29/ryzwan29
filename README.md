@@ -42,6 +42,9 @@
 
 ❯ uptime
   always on. even when i shouldn't be.
+
+❯ sudo pacman -S girlfriend
+  error: target not found: girlfriend
 ```
 
 ---
